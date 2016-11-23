@@ -1,50 +1,14 @@
 <description xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <languages>
     <Language type="en">
-      <name>First Plugin</name>
+      <name>Second Plugin</name>
       <short>A short description no longer than 128 chars.</short>
-      <full>Lorem ipsum dolor sit amet, at putent everti propriae sit. Eu nam honestatis repudiandae, vel movet tincidunt ad, est ei facer vituperatoribus. Eos tacimates dissentiet persequeris te, ut summo mediocrem mediocritatem pri, explicari mediocritatem te eam. Nec laoreet delectus pertinacia ea. Ei nam sint expetenda consequat, eos ei congue dicunt apeirian, ea cum enim delectus.
-
-Cu vim modo sumo iudicabit. No populo intellegebat pro, pri odio erat hendrerit an. Utamur definitionem an eum, ei laoreet recusabo usu, sea cu partiendo delicatissimi. Offendit scaevola in per, feugait persequeris sea te. Alia mucius mollis mei at, his cu suas legimus nominati, tamquam meliore dolores at mea. Mentitum dignissim est in, quo an quem necessitatibus. Nec ea mundi cetero dolorem, mei cu suas vitae.
-
-Dolorum deterruisset pri eu, ipsum quando diceret id pri. No ubique regione qui, no lorem imperdiet disputationi vim. Fugit augue sed id. Te interesset dissentiet vis. Te illum laboramus elaboraret qui, sea tale purto dignissim et.
-
-Ius ea autem debet, vix an tritani abhorreant. Has at wisi posidonium. Vis cu suas detraxit comprehensam. Soluta adipisci est an, per dicunt audire corpora eu. Inani zril ei nec, aeque dicant similique vel in. Cu vel aeque lobortis aliquando, usu an falli corpora, pro ad erat deserunt.
-
-Et facer alterum interesset mea. Mel exerci deserunt et, an pro apeirian mediocrem appellantur. Bonorum blandit argumentum pri te, malorum ornatus splendide mea ad. Ne qui detraxit definiebas, ex error ubique animal his, id eos soluta utroque electram.
-
-Atqui impedit appellantur id mea, nec quis ipsum contentiones ut. Sed eu timeam minimum lobortis, nostrud verterem deterruisset has ex. Dico platonem quo ex, est minim quaerendum ut. Et veri choro phaedrum mea, ea dolor sensibus nec. Rationibus argumentum usu ne.
-
-Ne has erat legere. Ei duo duis dolore eligendi, odio perpetua complectitur his at, eum deseruisse incorrupte intellegebat id. Lorem elitr impetus id mei. Te cum quaestio efficiantur. Ex ius habeo nemore torquatos, eu clita latine mea.
-
-Ex consul appetere nec, ne autem augue equidem mea. Nemore utroque ex nam, est labitur veritus forensibus ex. Viris perfecto honestatis sea an, saperet oportere ius ex, eam ut novum prodesset adolescens. Ea ridens aliquip recteque sit. Facer suscipiantur vel ei.
-
-Ne nostrud gloriatur nec, tota virtute nominati ea ius. Dicta gloriatur pro ea, euismod antiopam philosophia quo in, cu his latine senserit. Dolores percipit tractatos mel ei. Eos ut eius scriptorem, ad noluisse imperdiet posidonium nec, soleat fabellas sea ad. No modo legendos indoctum his.
-
-Summo dolor sed eu. At nisl aeterno pri, eum soleat antiopam eu. Eum no zril eripuit suscipit, duo liber eruditi graecis eu. Diceret dissentias instructior qui ea.</full>
+      <full>Lorem ipsum dolor sit amet, at putent everti propriae sit. Eu nam honestatis repudiandae, vel movet tincidunt ad, est ei facer vituperatoribus. Eos tacimates dissentiet persequeris te, ut summo mediocrem mediocritatem pri, explicari mediocritatem te eam. Nec laoreet delectus pertinacia ea. Ei nam sint expetenda consequat, eos ei congue dicunt apeirian, ea cum enim delectus.</full>
     </Language>
     <Language type="fr">
       <name>Premier plugin</name>
       <short>Une courte description de 128 caractères au maximum.</short>
-      <full>Lorem ipsum dolor sit amet, at putent everti propriae sit. Eu nam honestatis repudiandae, vel movet tincidunt ad, est ei facer vituperatoribus. Eos tacimates dissentiet persequeris te, ut summo mediocrem mediocritatem pri, explicari mediocritatem te eam. Nec laoreet delectus pertinacia ea. Ei nam sint expetenda consequat, eos ei congue dicunt apeirian, ea cum enim delectus.
-
-Cu vim modo sumo iudicabit. No populo intellegebat pro, pri odio erat hendrerit an. Utamur definitionem an eum, ei laoreet recusabo usu, sea cu partiendo delicatissimi. Offendit scaevola in per, feugait persequeris sea te. Alia mucius mollis mei at, his cu suas legimus nominati, tamquam meliore dolores at mea. Mentitum dignissim est in, quo an quem necessitatibus. Nec ea mundi cetero dolorem, mei cu suas vitae.
-
-Dolorum deterruisset pri eu, ipsum quando diceret id pri. No ubique regione qui, no lorem imperdiet disputationi vim. Fugit augue sed id. Te interesset dissentiet vis. Te illum laboramus elaboraret qui, sea tale purto dignissim et.
-
-Ius ea autem debet, vix an tritani abhorreant. Has at wisi posidonium. Vis cu suas detraxit comprehensam. Soluta adipisci est an, per dicunt audire corpora eu. Inani zril ei nec, aeque dicant similique vel in. Cu vel aeque lobortis aliquando, usu an falli corpora, pro ad erat deserunt.
-
-Et facer alterum interesset mea. Mel exerci deserunt et, an pro apeirian mediocrem appellantur. Bonorum blandit argumentum pri te, malorum ornatus splendide mea ad. Ne qui detraxit definiebas, ex error ubique animal his, id eos soluta utroque electram.
-
-Atqui impedit appellantur id mea, nec quis ipsum contentiones ut. Sed eu timeam minimum lobortis, nostrud verterem deterruisset has ex. Dico platonem quo ex, est minim quaerendum ut. Et veri choro phaedrum mea, ea dolor sensibus nec. Rationibus argumentum usu ne.
-
-Ne has erat legere. Ei duo duis dolore eligendi, odio perpetua complectitur his at, eum deseruisse incorrupte intellegebat id. Lorem elitr impetus id mei. Te cum quaestio efficiantur. Ex ius habeo nemore torquatos, eu clita latine mea.
-
-Ex consul appetere nec, ne autem augue equidem mea. Nemore utroque ex nam, est labitur veritus forensibus ex. Viris perfecto honestatis sea an, saperet oportere ius ex, eam ut novum prodesset adolescens. Ea ridens aliquip recteque sit. Facer suscipiantur vel ei.
-
-Ne nostrud gloriatur nec, tota virtute nominati ea ius. Dicta gloriatur pro ea, euismod antiopam philosophia quo in, cu his latine senserit. Dolores percipit tractatos mel ei. Eos ut eius scriptorem, ad noluisse imperdiet posidonium nec, soleat fabellas sea ad. No modo legendos indoctum his.
-
-Summo dolor sed eu. At nisl aeterno pri, eum soleat antiopam eu. Eum no zril eripuit suscipit, duo liber eruditi graecis eu. Diceret dissentias instructior qui ea.</full>
+      <full>Lorem ipsum dolor sit amet, at putent everti propriae sit. Eu nam honestatis repudiandae, vel movet tincidunt ad, est ei facer vituperatoribus. Eos tacimates dissentiet persequeris te, ut summo mediocrem mediocritatem pri, explicari mediocritatem te eam. Nec laoreet delectus pertinacia ea. Ei nam sint expetenda consequat, eos ei congue dicunt apeirian, ea cum enim delectus.</full>
     </Language>
   </languages>
 </description>
