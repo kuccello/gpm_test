@@ -1,0 +1,10 @@
+<registry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <groupId>testing.com.google.unity</groupId>
+  <artifactId>test-google-registry</artifactId>
+  <version>0.0.0.1</version>
+  <lastUpdated>1479934254</lastUpdated>
+  <modules>
+    <module>test.com.google.first</module>
+    <module>test.com.google.second</module>
+  </modules>
+</registry>
