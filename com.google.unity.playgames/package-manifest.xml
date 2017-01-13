@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
   <groupId>com.google.unity.playgames</groupId>
-  <artifactId>play-games-unity</artifactId>
+  <artifactId>google-playgames-plugin</artifactId>
   <packaging>unitypackage</packaging>
   <version>0.9.36</version>
   <versioning>
