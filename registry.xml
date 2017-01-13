@@ -2,11 +2,9 @@
 <registry>
   <groupId>registry.google.unity</groupId>
   <artifactId>jarresolver-google-registry</artifactId>
-  <version>0.0.1.1</version>
+  <version>0.0.1.2</version>
   <lastUpdated>1482171836</lastUpdated>
   <modules>
-    <module>com.google.unity.example</module>
     <module>com.google.unity.playgames</module>
-    <module>com.google.unity.pgsvr</module>
   </modules>
 </registry>
