@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<description>
+  <languages>
+    <language type="en">
+      <name>PGSVR Basic Sample</name>
+      <short>Basic Play Games sample plugin for VR</short>
+      <full>TODO(bbilodeau): add long description here</full>
+    </language>
+  </languages>
+</description>
+
